@@ -1,1 +1,1 @@
-# www.NotWednesdayBlog.com
+# www.NotWednesdayBlog.github.io
